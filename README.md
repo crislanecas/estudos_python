@@ -1,1 +1,1 @@
-Exercícios desenvolvidos durante as aulas da plataforma da Alura, que compõem os estudos de estatística do bootcamp de Data Analytics da WoMakerscode.
+Conteúdo desenvolvidos nas aulas da plataforma da Alura, que compõem os estudos de estatística com Python do bootcamp de Data Analytics da WoMakerscode.
